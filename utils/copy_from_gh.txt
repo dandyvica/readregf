@@ -1,0 +1,8 @@
+Index leaf (li)|Subkeys list
+Fast leaf (lf)|Subkeys list with name hints
+Hash leaf (lh)|Subkeys list with name hashes
+Index root (ri)|List of subkeys lists (used to subdivide subkeys lists)
+Key node (nk)|Registry key node
+Key value (vk)|Registry key value
+Key security (sk)|Security descriptor
+Big data (db)|List of data segments
